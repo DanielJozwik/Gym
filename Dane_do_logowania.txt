@@ -1,0 +1,5 @@
+Klient login: klient hasło: klient
+
+Trener login: trener hasło: trener
+
+Admin login: admin hasło: admin
