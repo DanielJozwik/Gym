@@ -1,9 +1,5 @@
 <?php
-    $ip = "51.83.186.186";
-    $dbname = "gym";
-    $port = "3306";
-    $user = "root";
-    $password = "haslo";
+    
     
     try
     {
